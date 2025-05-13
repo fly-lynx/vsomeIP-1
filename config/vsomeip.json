@@ -1,0 +1,18 @@
+{
+    "unicast": "127.0.0.1",
+    "applications": {
+        "SensorService": {
+            "instance_id": 1
+        },
+        "DashboardClient": {
+            "instance_id": 2
+        }
+    },
+    "services": [
+        {
+            "service": 4660,
+            "instance": 22136,
+            "eventgroups": [36865]
+        }
+    ]
+}
