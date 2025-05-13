@@ -16,8 +16,8 @@ sudo apt install git cmake g++ libboost-all-dev
 # Clone and Build
 
 ```bash
-git clone https://github.com/<UserName>/vsomeip-vehicle-sensors.git
-cd vsomeip-vehicle-sensors
+git clone https://github.com/fly-lynx/vsomeIP-1.git
+cd vsomeIP-1
 mkdir build && cd build
 cmake ..
 make
